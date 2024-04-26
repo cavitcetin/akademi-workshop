@@ -13,7 +13,7 @@ public class Category {
         public Category() {
         }
 
-        // Getter ve Setter metotlarıı
+        // Getter ve Setter metotlarııı
 
         public int getId() {
             return id;
